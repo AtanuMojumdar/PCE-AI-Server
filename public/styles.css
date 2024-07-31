@@ -1,0 +1,31 @@
+body{
+    background-color: #021526;
+    color: white;
+    font-family: sans-serif;
+}
+
+.maindiv{
+    max-width: fit-content;
+    margin-inline: auto;
+}
+h1{
+    text-align: center;
+}
+#healthBtnDiv{
+    max-width: fit-content;
+    margin-inline: auto;
+    margin-top: 1rem;
+}
+#redirectBtn{
+    background-color: #508C9B;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: #021526;
+}
+#redirectBtn:hover{
+    background-color: #2d6e7e;
+
+}
